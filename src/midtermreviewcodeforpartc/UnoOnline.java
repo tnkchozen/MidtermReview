@@ -28,6 +28,7 @@ public class UnoOnline
      {
        UnoOnline newPortal = new UnoOnline();
        newPortal.run();
+       
     }
      /**
      * method that takes in the User's name and chosen password
